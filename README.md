@@ -23,7 +23,7 @@
 # [Full Deployment](https://github.com/fillswim/Docker-K8s-OpenShift)
 ![Docker-K8s-OpenShift](images/Docker-K8s-OpenShift.png)
 
-## ![Docker_icon](images/Docker_icon48.png) [Docker Deployment](https://github.com/fillswim/Docker-K8s-OpenShift/tree/main/PhraseService/Docker)
+## ![Docker_icon](images/Docker_icon24.png) [Docker Deployment](https://github.com/fillswim/Docker-K8s-OpenShift/tree/main/PhraseService/Docker)
 ## [Docker Compose Deployment](https://github.com/fillswim/Docker-K8s-OpenShift/tree/main/PhraseService/DockerCompose)
 
 ## [Kubernetes Deployment](https://github.com/fillswim/Docker-K8s-OpenShift/tree/main/PhraseService/K8s)
