@@ -13,7 +13,7 @@
 
 ## ![K8s_icon](images/K8s_icon24.png) [Kubernetes Deployment](https://github.com/fillswim/Docker-K8s-OpenShift/tree/main/PhraseService/K8s)
 
-## ![OpenShift_icon](images/Docker_icon24.png) [OpenShift Deployment](https://github.com/fillswim/Docker-K8s-OpenShift/tree/main/PhraseService/OpenShift)
+## ![OpenShift_icon](images/OpenShift_icon24.png) [OpenShift Deployment](https://github.com/fillswim/Docker-K8s-OpenShift/tree/main/PhraseService/OpenShift)
 
 # [Kubernetes Course](https://github.com/fillswim/K8SManifests) 
 ![K8s](images/Kubernetes-logo2.png)
