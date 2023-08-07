@@ -11,7 +11,7 @@
 
 ## ![DockerCompose_icon](images/Docker_Compose_icon24.jpg) [Docker Compose Deployment](https://github.com/fillswim/Docker-K8s-OpenShift/tree/main/PhraseService/DockerCompose)
 
-## ![K8s_icon](images/K8s_icon24.png) [Kubernetes Deployment](https://github.com/fillswim/Docker-K8s-OpenShift/tree/main/PhraseService/K8s)![k8s](https://img.shields.io/badge/kubernetes-BD7100?style=for-the-badge&logo=kubernetes&logoColor=white)
+## ![K8s_icon](images/K8s_icon24.png) [Kubernetes Deployment](https://github.com/fillswim/Docker-K8s-OpenShift/tree/main/PhraseService/K8s)
 
 ## ![OpenShift_icon](images/OpenShift_icon24.png) [OpenShift Deployment](https://github.com/fillswim/Docker-K8s-OpenShift/tree/main/PhraseService/OpenShift)
 
