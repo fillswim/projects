@@ -5,6 +5,9 @@
 #### [Docker Deployment](https://github.com/fillswim/Docker-K8s-OpenShift/tree/main/PhraseService/Docker)
 #### [Docker Compose Deployment](https://github.com/fillswim/Docker-K8s-OpenShift/tree/main/PhraseService/DockerCompose)
 #### [Kubernetes Deployment](https://github.com/fillswim/Docker-K8s-OpenShift/tree/main/PhraseService/K8s)
+
+![Kubernetes](images/Kubernetes-logo.png)
+
 #### [OpenShift Deployment](https://github.com/fillswim/Docker-K8s-OpenShift/tree/main/PhraseService/OpenShift)
 
 ## [Kubernetes Course](https://github.com/fillswim/K8SManifests)
